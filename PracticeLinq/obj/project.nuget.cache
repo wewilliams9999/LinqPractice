@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Tew1r2adqVRbXvIgEiDhRGm0fjoSDA461b6Dc0ZxeoBudw6yiBvWyxUOaOgh+irIaQApIT+BK0/4DwmxdXmCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\willi\\source\\repos\\PracticeLinq\\PracticeLinq\\PracticeLinq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\willi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
